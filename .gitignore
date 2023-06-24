@@ -1,0 +1,4 @@
+assests/data/
+node_modules/
+.cache/
+dist/
